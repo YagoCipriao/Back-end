@@ -1,0 +1,49 @@
+{
+  "alunos": [
+    {
+      "id": 3,
+      "nome": "teste",
+      "email": "teste@hotmail.com",
+      "telefone": "(61) 98564-5646",
+      "anos": 52,
+      "Cpf": "566.564.987-99",
+      "curso": "Engenharia de Software"
+    },
+    {
+      "id": 4,
+      "nome": "teste",
+      "email": "teste@hotmail.com",
+      "telefone": "(61) 95461-465",
+      "anos": 40,
+      "Cpf": "445.266.545-99",
+      "curso": "Ciência da Computação"
+    },
+    {
+      "id": 5,
+      "nome": "teste",
+      "email": "teste@hotmail.com",
+      "telefone": "(61) 91666-4646",
+      "anos": 16,
+      "Cpf": "314.445.131-99",
+      "curso": "Engenharia de Software"
+    },
+    {
+      "id": 6,
+      "nome": "julkia",
+      "email": "jjnhga@gmail.com",
+      "curso": "Ciência da Computação",
+      "telefone": "2222225555",
+      "anos": "20",
+      "Cpf": "456.565.464-99"
+    },
+    {
+      "id": 7,
+      "nome": "Yago",
+      "email": "yago@gmail.com",
+      "curso": "Engenharia de Software",
+      "telefone": "(61) 98745-6556",
+      "anos": "18",
+      "Cpf": "095.445.554-99"
+    }
+  ]
+}
